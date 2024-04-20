@@ -9,3 +9,9 @@ password
 password1234
 12345678
 adminpassword
+abc1234
+test1234
+azerty123456
+azerty1234
+qwerty123456
+qwerty1234
